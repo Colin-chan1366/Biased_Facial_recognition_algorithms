@@ -1,4 +1,4 @@
-## Computer vision: Are facial recognition algorithms biased?
+## DSPP6506 Computer Vision: Are facial recognition algorithms biased?
 
 We'll focus on computer vision and discuss how face detection algorithms are used in various policy settings. Our focus will be on biased predictions, and what can be done to address them. 
 
